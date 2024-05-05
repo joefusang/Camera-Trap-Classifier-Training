@@ -1,0 +1,21 @@
+Location ,placeID,Latitude ,Longitude ,Start.date,End.date,Nights.active,Full survey,Excluded?,Notes
+East Sheen Common ,1,51.45729988,-0.281921683,13/05/2022,27/05/2022,14,Yes,,
+East Sheen Common ,2,51.45729988,-0.280093268,13/05/2022,27/05/2022,14,Yes,,
+East Sheen Common ,3,51.45729988,-0.278264853,13/05/2022,27/05/2022,14,Yes,,
+East Sheen Common ,4,51.45729988,-0.276436438,13/05/2022,27/05/2022,14,Yes,,
+East Sheen Common ,5,51.45844202,-0.281921683,13/05/2022,30/05/2022,17,Yes,,
+East Sheen Common ,6,51.45844202,-0.280093268,13/05/2022,27/05/2022,14,Yes,,
+East Sheen Common ,7,51.45958417,-0.283750098,13/05/2022,27/05/2022,14,Yes,,
+East Sheen Common ,8,51.45958417,-0.281921683,13/05/2022,27/05/2022,14,Yes,,
+East Sheen Common ,9,51.45958417,-0.280093268,13/05/2022,27/05/2022,14,Yes,,
+East Sheen Common ,10,51.46072632,-0.283750098,13/05/2022,27/05/2022,14,Yes,,
+Terrace Gardens ,11,51.451495,-0.299913,,,0,No,Yes,camera failed
+Terrace Gardens ,12,51.452565,-0.300542,13/05/2022,27/05/2022,14,Yes,,
+Terrace Gardens ,13,51.453392,-0.300107,13/05/2022,27/05/2022,14,Yes,,
+Terrace Gardens ,14,51.455242,-0.301517,13/05/2022,20/05/2022,7,No,,
+Terrace Gardens ,15,51.454511,-0.30164,13/05/2022,27/05/2022,14,Yes,,
+Richmond Old Cemetery ,16,51.454688,-0.290514,13/05/2022,14/05/2022,1,No,,badgers so not excluding
+Richmond Old Cemetery ,17,51.454213,-0.289641,13/05/2022,14/05/2022,1,No ,,badgers so not excluding
+Richmond Old Cemetery ,18,51.454927,-0.289382,13/05/2022,27/05/2022,14,Yes,,
+Richmond Old Cemetery ,19,51.455218,-0.2889584,13/05/2022,27/05/2022,14,Yes,,
+Richmond Old Cemetery ,20,51.454396,-0.289445,13/05/2022,27/05/2022,14,Yes,,

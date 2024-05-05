@@ -1,0 +1,2131 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="camera_traps" id="camera_traps">
+	<SimpleField name="Latitude" type="float"></SimpleField>
+	<SimpleField name="Longitude" type="float"></SimpleField>
+</Schema>
+<Folder><name>camera_traps</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.448695</SimpleData>
+		<SimpleData name="Longitude">-0.317067</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.317067,51.448695</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.447607</SimpleData>
+		<SimpleData name="Longitude">-0.316032</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.316032,51.447607</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.447108</SimpleData>
+		<SimpleData name="Longitude">-0.318454</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.318454,51.447108</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.446538</SimpleData>
+		<SimpleData name="Longitude">-0.318184</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.318184,51.446538</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.448004</SimpleData>
+		<SimpleData name="Longitude">-0.318921</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.318921,51.448004</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.448808</SimpleData>
+		<SimpleData name="Longitude">-0.32637</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.32637,51.448808</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.448916</SimpleData>
+		<SimpleData name="Longitude">-0.327089</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.327089,51.448916</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.438978</SimpleData>
+		<SimpleData name="Longitude">-0.329352</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.329352,51.438978</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.44298</SimpleData>
+		<SimpleData name="Longitude">-0.328068</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.328068,51.44298</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.444968</SimpleData>
+		<SimpleData name="Longitude">-0.322509</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.322509,51.444968</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.445198</SimpleData>
+		<SimpleData name="Longitude">-0.319099</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.319099,51.445198</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.445342</SimpleData>
+		<SimpleData name="Longitude">-0.316094</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.316094,51.445342</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.445561</SimpleData>
+		<SimpleData name="Longitude">-0.313331</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.313331,51.445561</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.4467756</SimpleData>
+		<SimpleData name="Longitude">-0.3105408</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.3105408,51.4467756</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.44793</SimpleData>
+		<SimpleData name="Longitude">-0.305905</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.305905,51.44793</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.442678</SimpleData>
+		<SimpleData name="Longitude">-0.30718</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.30718,51.442678</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.442484</SimpleData>
+		<SimpleData name="Longitude">-0.312659</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.312659,51.442484</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.442053</SimpleData>
+		<SimpleData name="Longitude">-0.309088</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.309088,51.442053</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.440487</SimpleData>
+		<SimpleData name="Longitude">-0.311529</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.311529,51.440487</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.443441</SimpleData>
+		<SimpleData name="Longitude">-0.308507</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.308507,51.443441</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.444412</SimpleData>
+		<SimpleData name="Longitude">-0.305718</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.305718,51.444412</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.447488</SimpleData>
+		<SimpleData name="Longitude">-0.298432</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.298432,51.447488</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.448304</SimpleData>
+		<SimpleData name="Longitude">-0.298224</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.298224,51.448304</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.449807</SimpleData>
+		<SimpleData name="Longitude">-0.298705</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.298705,51.449807</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.449194</SimpleData>
+		<SimpleData name="Longitude">-0.297426</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.297426,51.449194</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.451295</SimpleData>
+		<SimpleData name="Longitude">-0.297605</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.297605,51.451295</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.473606</SimpleData>
+		<SimpleData name="Longitude">-0.231352</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.231352,51.473606</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.47475438</SimpleData>
+		<SimpleData name="Longitude">-0.232868928</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.232868928,51.47475438</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.474687</SimpleData>
+		<SimpleData name="Longitude">-0.231508</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.231508,51.474687</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.47475438</SimpleData>
+		<SimpleData name="Longitude">-0.229867647</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.229867647,51.47475438</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.47569149</SimpleData>
+		<SimpleData name="Longitude">-0.232868928</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.232868928,51.47569149</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.474407</SimpleData>
+		<SimpleData name="Longitude">-0.230869</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.230869,51.474407</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.475052</SimpleData>
+		<SimpleData name="Longitude">-0.233794</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.233794,51.475052</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.475499</SimpleData>
+		<SimpleData name="Longitude">-0.233633</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.233633,51.475499</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.47421</SimpleData>
+		<SimpleData name="Longitude">-0.231016</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.231016,51.47421</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.473957</SimpleData>
+		<SimpleData name="Longitude">-0.231352</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.231352,51.473957</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.47427</SimpleData>
+		<SimpleData name="Longitude">-0.23253</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.23253,51.47427</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.474592</SimpleData>
+		<SimpleData name="Longitude">-0.233092</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.233092,51.474592</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.457314</SimpleData>
+		<SimpleData name="Longitude">-0.039367</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.039367,51.457314</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.456242</SimpleData>
+		<SimpleData name="Longitude">-0.039845</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.039845,51.456242</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.455289</SimpleData>
+		<SimpleData name="Longitude">-0.04074</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.04074,51.455289</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.441545</SimpleData>
+		<SimpleData name="Longitude">-0.365256</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.365256,51.441545</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.441449</SimpleData>
+		<SimpleData name="Longitude">-0.362811</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.362811,51.441449</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.441624</SimpleData>
+		<SimpleData name="Longitude">-0.361597</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.361597,51.441624</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.442207</SimpleData>
+		<SimpleData name="Longitude">-0.359119</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.359119,51.442207</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.443504</SimpleData>
+		<SimpleData name="Longitude">-0.37585</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.37585,51.443504</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.443118</SimpleData>
+		<SimpleData name="Longitude">-0.374376</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.374376,51.443118</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.442784</SimpleData>
+		<SimpleData name="Longitude">-0.369648</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.369648,51.442784</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.44327</SimpleData>
+		<SimpleData name="Longitude">-0.357195</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.357195,51.44327</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.444429</SimpleData>
+		<SimpleData name="Longitude">-0.378351</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.378351,51.444429</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.446046</SimpleData>
+		<SimpleData name="Longitude">-0.382626</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.382626,51.446046</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.444892</SimpleData>
+		<SimpleData name="Longitude">-0.354294</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.354294,51.444892</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.444409</SimpleData>
+		<SimpleData name="Longitude">-0.355213</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.355213,51.444409</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.4440012</SimpleData>
+		<SimpleData name="Longitude">-0.379305</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.379305,51.4440012</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.4439287</SimpleData>
+		<SimpleData name="Longitude">-0.3791585</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.3791585,51.4439287</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.443446</SimpleData>
+		<SimpleData name="Longitude">-0.378797</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.378797,51.443446</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.443522</SimpleData>
+		<SimpleData name="Longitude">-0.378762</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.378762,51.443522</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.4435053</SimpleData>
+		<SimpleData name="Longitude">-0.3784883</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.3784883,51.4435053</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.4435036</SimpleData>
+		<SimpleData name="Longitude">-0.3784896</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.3784896,51.4435036</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.4434537</SimpleData>
+		<SimpleData name="Longitude">-0.3784153</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.3784153,51.4434537</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.4436198</SimpleData>
+		<SimpleData name="Longitude">-0.3786855</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.3786855,51.4436198</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.443479</SimpleData>
+		<SimpleData name="Longitude">-0.378991</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.378991,51.443479</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.443207</SimpleData>
+		<SimpleData name="Longitude">-0.378986</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.378986,51.443207</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.457939</SimpleData>
+		<SimpleData name="Longitude">-0.040142</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.040142,51.457939</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.457986</SimpleData>
+		<SimpleData name="Longitude">-0.040366</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.040366,51.457986</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.458059</SimpleData>
+		<SimpleData name="Longitude">-0.040121</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.040121,51.458059</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.444367</SimpleData>
+		<SimpleData name="Longitude">-0.050444</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.050444,51.444367</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.445064</SimpleData>
+		<SimpleData name="Longitude">-0.049714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.049714,51.445064</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.446019</SimpleData>
+		<SimpleData name="Longitude">-0.049001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.049001,51.446019</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.444596</SimpleData>
+		<SimpleData name="Longitude">-0.049574</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.049574,51.444596</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.448068</SimpleData>
+		<SimpleData name="Longitude">-0.046588</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.046588,51.448068</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.447059</SimpleData>
+		<SimpleData name="Longitude">-0.047742</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.047742,51.447059</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.55568</SimpleData>
+		<SimpleData name="Longitude">-0.15035</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.15035,51.55568</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.5568994</SimpleData>
+		<SimpleData name="Longitude">-0.1650977</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.1650977,51.5568994</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.5567652</SimpleData>
+		<SimpleData name="Longitude">-0.1594981</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.1594981,51.5567652</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.5569361</SimpleData>
+		<SimpleData name="Longitude">-0.1570352</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.1570352,51.5569361</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.5570779</SimpleData>
+		<SimpleData name="Longitude">-0.1540721</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.1540721,51.5570779</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.5566076</SimpleData>
+		<SimpleData name="Longitude">-0.1520853</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.1520853,51.5566076</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.5568577</SimpleData>
+		<SimpleData name="Longitude">-0.1505947</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.1505947,51.5568577</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.55821574</SimpleData>
+		<SimpleData name="Longitude">-0.169554095</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.169554095,51.55821574</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.5587886</SimpleData>
+		<SimpleData name="Longitude">-0.1677625</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.1677625,51.5587886</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.558</SimpleData>
+		<SimpleData name="Longitude">-0.165</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.165,51.558</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.5580456</SimpleData>
+		<SimpleData name="Longitude">-0.159419</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.159419,51.5580456</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.55907</SimpleData>
+		<SimpleData name="Longitude">-0.156764</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.156764,51.55907</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.558603</SimpleData>
+		<SimpleData name="Longitude">-0.154504</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.154504,51.558603</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.55821574</SimpleData>
+		<SimpleData name="Longitude">-0.152608304</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.152608304,51.55821574</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.5590329</SimpleData>
+		<SimpleData name="Longitude">-0.1695786</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.1695786,51.5590329</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.55953206</SimpleData>
+		<SimpleData name="Longitude">-0.167435871</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.167435871,51.55953206</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.5596121</SimpleData>
+		<SimpleData name="Longitude">-0.165205</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.165205,51.5596121</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.5597</SimpleData>
+		<SimpleData name="Longitude">-0.1633</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.1633,51.5597</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.5598</SimpleData>
+		<SimpleData name="Longitude">-0.1612</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.1612,51.5598</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.5593975</SimpleData>
+		<SimpleData name="Longitude">-0.1583962</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.1583962,51.5593975</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.5596651</SimpleData>
+		<SimpleData name="Longitude">-0.1562913</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.1562913,51.5596651</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.55953206</SimpleData>
+		<SimpleData name="Longitude">-0.154726527</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.154726527,51.55953206</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.55953206</SimpleData>
+		<SimpleData name="Longitude">-0.152608304</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.152608304,51.55953206</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.5596096</SimpleData>
+		<SimpleData name="Longitude">-0.1503211</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.1503211,51.5596096</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.5596096</SimpleData>
+		<SimpleData name="Longitude">-0.1503211</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.1503211,51.5596096</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.56084837</SimpleData>
+		<SimpleData name="Longitude">-0.173790542</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.173790542,51.56084837</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.56084</SimpleData>
+		<SimpleData name="Longitude">-0.17167</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.17167,51.56084</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.561</SimpleData>
+		<SimpleData name="Longitude">-0.169</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.169,51.561</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.56084837</SimpleData>
+		<SimpleData name="Longitude">-0.167435871</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.167435871,51.56084837</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.56084837</SimpleData>
+		<SimpleData name="Longitude">-0.165317647</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.165317647,51.56084837</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.5609</SimpleData>
+		<SimpleData name="Longitude">-0.1635</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.1635,51.5609</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.5608</SimpleData>
+		<SimpleData name="Longitude">-0.1607</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.1607,51.5608</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.5611396</SimpleData>
+		<SimpleData name="Longitude">-0.1593309</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.1593309,51.5611396</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.5605812</SimpleData>
+		<SimpleData name="Longitude">-0.1571999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.1571999,51.5605812</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.5610401</SimpleData>
+		<SimpleData name="Longitude">-0.1549384</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.1549384,51.5610401</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.5610401</SimpleData>
+		<SimpleData name="Longitude">-0.1549384</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.1549384,51.5610401</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.5610435</SimpleData>
+		<SimpleData name="Longitude">-0.1507181</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.1507181,51.5610435</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.56216468</SimpleData>
+		<SimpleData name="Longitude">-0.184381661</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.184381661,51.56216468</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.56216468</SimpleData>
+		<SimpleData name="Longitude">-0.182263438</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.182263438,51.56216468</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.56216468</SimpleData>
+		<SimpleData name="Longitude">-0.180145214</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.180145214,51.56216468</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.56216468</SimpleData>
+		<SimpleData name="Longitude">-0.173790542</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.173790542,51.56216468</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.56216468</SimpleData>
+		<SimpleData name="Longitude">-0.171672318</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.171672318,51.56216468</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.56216468</SimpleData>
+		<SimpleData name="Longitude">-0.169554095</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.169554095,51.56216468</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.56216468</SimpleData>
+		<SimpleData name="Longitude">-0.167435871</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.167435871,51.56216468</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.56216468</SimpleData>
+		<SimpleData name="Longitude">-0.163199423</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.163199423,51.56216468</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.5632</SimpleData>
+		<SimpleData name="Longitude">-0.1614</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.1614,51.5632</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.5619569</SimpleData>
+		<SimpleData name="Longitude">-0.1595187</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.1595187,51.5619569</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.5621578</SimpleData>
+		<SimpleData name="Longitude">-0.1571345</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.1571345,51.5621578</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.56216468</SimpleData>
+		<SimpleData name="Longitude">-0.154726527</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.154726527,51.56216468</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.5632</SimpleData>
+		<SimpleData name="Longitude">-0.1885</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.1885,51.5632</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.563481</SimpleData>
+		<SimpleData name="Longitude">-0.1864999</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.1864999,51.563481</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.563481</SimpleData>
+		<SimpleData name="Longitude">-0.184381661</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.184381661,51.563481</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.56216</SimpleData>
+		<SimpleData name="Longitude">-0.16531</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.16531,51.56216</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.563481</SimpleData>
+		<SimpleData name="Longitude">-0.182263438</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.182263438,51.563481</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.5636</SimpleData>
+		<SimpleData name="Longitude">-0.1804</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.1804,51.5636</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.563481</SimpleData>
+		<SimpleData name="Longitude">-0.173790542</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.173790542,51.563481</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.563481</SimpleData>
+		<SimpleData name="Longitude">-0.171672318</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.171672318,51.563481</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.563481</SimpleData>
+		<SimpleData name="Longitude">-0.169554095</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.169554095,51.563481</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.563481</SimpleData>
+		<SimpleData name="Longitude">-0.165317647</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.165317647,51.563481</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.563922</SimpleData>
+		<SimpleData name="Longitude">-0.1653009</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.1653009,51.563922</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.56343</SimpleData>
+		<SimpleData name="Longitude">-0.16303</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.16303,51.56343</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.563481</SimpleData>
+		<SimpleData name="Longitude">-0.161081199</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.161081199,51.563481</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.563481</SimpleData>
+		<SimpleData name="Longitude">-0.158962975</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.158962975,51.563481</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.563481</SimpleData>
+		<SimpleData name="Longitude">-0.156844751</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.156844751,51.563481</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.5647</SimpleData>
+		<SimpleData name="Longitude">-0.1886</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.1886,51.5647</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.5647</SimpleData>
+		<SimpleData name="Longitude">-0.1866</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.1866,51.5647</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.5647443</SimpleData>
+		<SimpleData name="Longitude">-0.18433425</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.18433425,51.5647443</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.56479731</SimpleData>
+		<SimpleData name="Longitude">-0.182263438</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.182263438,51.56479731</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.5648</SimpleData>
+		<SimpleData name="Longitude">-0.1801</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.1801,51.5648</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.5652</SimpleData>
+		<SimpleData name="Longitude">-0.178</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.178,51.5652</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.5649</SimpleData>
+		<SimpleData name="Longitude">-0.1759</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.1759,51.5649</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.56479</SimpleData>
+		<SimpleData name="Longitude">-0.17379</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.17379,51.56479</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.5648246</SimpleData>
+		<SimpleData name="Longitude">-0.171596</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.171596,51.5648246</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.56479731</SimpleData>
+		<SimpleData name="Longitude">-0.169554095</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.169554095,51.56479731</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.56479731</SimpleData>
+		<SimpleData name="Longitude">-0.167435871</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.167435871,51.56479731</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.5647973</SimpleData>
+		<SimpleData name="Longitude">-0.1653176</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.1653176,51.5647973</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.56509</SimpleData>
+		<SimpleData name="Longitude">-0.16314</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.16314,51.56509</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.56479731</SimpleData>
+		<SimpleData name="Longitude">-0.161081199</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.161081199,51.56479731</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.5648015</SimpleData>
+		<SimpleData name="Longitude">-0.1591011</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.1591011,51.5648015</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.56611</SimpleData>
+		<SimpleData name="Longitude">-0.19073</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.19073,51.56611</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.56595</SimpleData>
+		<SimpleData name="Longitude">-0.18873</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.18873,51.56595</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.56611</SimpleData>
+		<SimpleData name="Longitude">-0.18649</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.18649,51.56611</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.5661</SimpleData>
+		<SimpleData name="Longitude">-0.1844</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.1844,51.5661</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.56611362</SimpleData>
+		<SimpleData name="Longitude">-0.182263438</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.182263438,51.56611362</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.566</SimpleData>
+		<SimpleData name="Longitude">-0.1801</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.1801,51.566</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.566</SimpleData>
+		<SimpleData name="Longitude">-0.178</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.178,51.566</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.5664</SimpleData>
+		<SimpleData name="Longitude">-0.1757</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.1757,51.5664</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.56611</SimpleData>
+		<SimpleData name="Longitude">-0.17379</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.17379,51.56611</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.5658856</SimpleData>
+		<SimpleData name="Longitude">-0.1711005</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.1711005,51.5658856</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.56611</SimpleData>
+		<SimpleData name="Longitude">-0.16955</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.16955,51.56611</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.5663</SimpleData>
+		<SimpleData name="Longitude">-0.1674</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.1674,51.5663</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.5661</SimpleData>
+		<SimpleData name="Longitude">-0.1652</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.1652,51.5661</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.56611</SimpleData>
+		<SimpleData name="Longitude">-0.16319</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.16319,51.56611</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.56611</SimpleData>
+		<SimpleData name="Longitude">-0.16108</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.16108,51.56611</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.56611362</SimpleData>
+		<SimpleData name="Longitude">-0.158962975</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.158962975,51.56611362</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.56742</SimpleData>
+		<SimpleData name="Longitude">-0.19073</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.19073,51.56742</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.56742</SimpleData>
+		<SimpleData name="Longitude">-0.18861</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.18861,51.56742</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.56729</SimpleData>
+		<SimpleData name="Longitude">-0.18668</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.18668,51.56729</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.56742</SimpleData>
+		<SimpleData name="Longitude">-0.18438</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.18438,51.56742</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.5673</SimpleData>
+		<SimpleData name="Longitude">-0.1801</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.1801,51.5673</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.5671</SimpleData>
+		<SimpleData name="Longitude">-0.178</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.178,51.5671</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.56742994</SimpleData>
+		<SimpleData name="Longitude">-0.175908766</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.175908766,51.56742994</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.5674643</SimpleData>
+		<SimpleData name="Longitude">-0.1734098</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.1734098,51.5674643</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.5677613</SimpleData>
+		<SimpleData name="Longitude">-0.1715108</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.1715108,51.5677613</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.567351</SimpleData>
+		<SimpleData name="Longitude">-0.1694268</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.1694268,51.567351</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.56742</SimpleData>
+		<SimpleData name="Longitude">-0.16743</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.16743,51.56742</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.56742</SimpleData>
+		<SimpleData name="Longitude">-0.16531</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.16531,51.56742</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.56742</SimpleData>
+		<SimpleData name="Longitude">-0.16319</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.16319,51.56742</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.56742</SimpleData>
+		<SimpleData name="Longitude">-0.16108</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.16108,51.56742</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.56874</SimpleData>
+		<SimpleData name="Longitude">-0.18014</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.18014,51.56874</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.56874</SimpleData>
+		<SimpleData name="Longitude">-0.17802</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.17802,51.56874</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.56874625</SimpleData>
+		<SimpleData name="Longitude">-0.173790542</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.173790542,51.56874625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.568528</SimpleData>
+		<SimpleData name="Longitude">-0.1710123</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.1710123,51.568528</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.5686933</SimpleData>
+		<SimpleData name="Longitude">-0.1698261</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.1698261,51.5686933</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.56874625</SimpleData>
+		<SimpleData name="Longitude">-0.167435871</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.167435871,51.56874625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.56874</SimpleData>
+		<SimpleData name="Longitude">-0.16531</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.16531,51.56874</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.56874</SimpleData>
+		<SimpleData name="Longitude">-0.16319</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.16319,51.56874</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.56874625</SimpleData>
+		<SimpleData name="Longitude">-0.161081199</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.161081199,51.56874625</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.57006</SimpleData>
+		<SimpleData name="Longitude">-0.18014</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.18014,51.57006</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.57006</SimpleData>
+		<SimpleData name="Longitude">-0.17802</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.17802,51.57006</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.5696048</SimpleData>
+		<SimpleData name="Longitude">-0.171432</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.171432,51.5696048</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.5699799</SimpleData>
+		<SimpleData name="Longitude">-0.1703089</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.1703089,51.5699799</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.5699799</SimpleData>
+		<SimpleData name="Longitude">-0.1703089</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.1703089,51.5699799</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.57006256</SimpleData>
+		<SimpleData name="Longitude">-0.165317647</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.165317647,51.57006256</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.5697976</SimpleData>
+		<SimpleData name="Longitude">-0.1629294</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.1629294,51.5697976</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.5703065</SimpleData>
+		<SimpleData name="Longitude">-0.1606134</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.1606134,51.5703065</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.57006</SimpleData>
+		<SimpleData name="Longitude">-0.15895</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.15895,51.57006</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.57137</SimpleData>
+		<SimpleData name="Longitude">-0.18226</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.18226,51.57137</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.57137</SimpleData>
+		<SimpleData name="Longitude">-0.18014</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.18014,51.57137</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.57137888</SimpleData>
+		<SimpleData name="Longitude">-0.171672318</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.171672318,51.57137888</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.571433</SimpleData>
+		<SimpleData name="Longitude">-0.1695062</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.1695062,51.571433</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.5718852</SimpleData>
+		<SimpleData name="Longitude">-0.1671858</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.1671858,51.5718852</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.5712542</SimpleData>
+		<SimpleData name="Longitude">-0.1657639</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.1657639,51.5712542</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.5713765</SimpleData>
+		<SimpleData name="Longitude">-0.1618753</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.1618753,51.5713765</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.57137888</SimpleData>
+		<SimpleData name="Longitude">-0.161081199</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.161081199,51.57137888</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.5722</SimpleData>
+		<SimpleData name="Longitude">-0.1849</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.1849,51.5722</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.57269</SimpleData>
+		<SimpleData name="Longitude">-0.18226</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.18226,51.57269</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.57269</SimpleData>
+		<SimpleData name="Longitude">-0.18226</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.18226,51.57269</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.572707</SimpleData>
+		<SimpleData name="Longitude">-0.1675777</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.1675777,51.572707</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.5726848</SimpleData>
+		<SimpleData name="Longitude">-0.165448</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.165448,51.5726848</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.5725533</SimpleData>
+		<SimpleData name="Longitude">-0.1629496</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.1629496,51.5725533</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.57256</SimpleData>
+		<SimpleData name="Longitude">-0.16108</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.16108,51.57256</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.5735546</SimpleData>
+		<SimpleData name="Longitude">-0.1862576</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.1862576,51.5735546</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.574</SimpleData>
+		<SimpleData name="Longitude">-0.1843</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.1843,51.574</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.5749</SimpleData>
+		<SimpleData name="Longitude">-0.1877</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.1877,51.5749</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.5757606</SimpleData>
+		<SimpleData name="Longitude">-0.1846537</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.1846537,51.5757606</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.5768</SimpleData>
+		<SimpleData name="Longitude">-0.1885</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.1885,51.5768</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.5767778</SimpleData>
+		<SimpleData name="Longitude">-0.1844793</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.1844793,51.5767778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.5764692</SimpleData>
+		<SimpleData name="Longitude">-0.1862298</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.1862298,51.5764692</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.5783</SimpleData>
+		<SimpleData name="Longitude">-0.1846</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.1846,51.5783</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.45052</SimpleData>
+		<SimpleData name="Longitude">0.001493</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0.001493,51.45052</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.450578</SimpleData>
+		<SimpleData name="Longitude">0.001234</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0.001234,51.450578</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.450677</SimpleData>
+		<SimpleData name="Longitude">0.001061</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0.001061,51.450677</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.451311</SimpleData>
+		<SimpleData name="Longitude">0.000334</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0.000334,51.451311</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.45729988</SimpleData>
+		<SimpleData name="Longitude">-0.281921683</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.281921683,51.45729988</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.45729988</SimpleData>
+		<SimpleData name="Longitude">-0.280093268</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.280093268,51.45729988</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.45729988</SimpleData>
+		<SimpleData name="Longitude">-0.278264853</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.278264853,51.45729988</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.45729988</SimpleData>
+		<SimpleData name="Longitude">-0.276436438</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.276436438,51.45729988</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.45844202</SimpleData>
+		<SimpleData name="Longitude">-0.281921683</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.281921683,51.45844202</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.45844202</SimpleData>
+		<SimpleData name="Longitude">-0.280093268</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.280093268,51.45844202</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.45958417</SimpleData>
+		<SimpleData name="Longitude">-0.283750098</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.283750098,51.45958417</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.45958417</SimpleData>
+		<SimpleData name="Longitude">-0.281921683</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.281921683,51.45958417</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.45958417</SimpleData>
+		<SimpleData name="Longitude">-0.280093268</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.280093268,51.45958417</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.46072632</SimpleData>
+		<SimpleData name="Longitude">-0.283750098</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.283750098,51.46072632</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.451495</SimpleData>
+		<SimpleData name="Longitude">-0.299913</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.299913,51.451495</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.452565</SimpleData>
+		<SimpleData name="Longitude">-0.300542</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.300542,51.452565</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.453392</SimpleData>
+		<SimpleData name="Longitude">-0.300107</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.300107,51.453392</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.455242</SimpleData>
+		<SimpleData name="Longitude">-0.301517</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.301517,51.455242</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.454511</SimpleData>
+		<SimpleData name="Longitude">-0.30164</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.30164,51.454511</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.454688</SimpleData>
+		<SimpleData name="Longitude">-0.290514</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.290514,51.454688</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.454213</SimpleData>
+		<SimpleData name="Longitude">-0.289641</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.289641,51.454213</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.454927</SimpleData>
+		<SimpleData name="Longitude">-0.289382</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.289382,51.454927</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.455218</SimpleData>
+		<SimpleData name="Longitude">-0.2889584</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.2889584,51.455218</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.454396</SimpleData>
+		<SimpleData name="Longitude">-0.289445</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.289445,51.454396</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.415246</SimpleData>
+		<SimpleData name="Longitude">-0.364325</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.364325,51.415246</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.415886</SimpleData>
+		<SimpleData name="Longitude">-0.366439</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.366439,51.415886</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.415921</SimpleData>
+		<SimpleData name="Longitude">-0.364493</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.364493,51.415921</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.415965</SimpleData>
+		<SimpleData name="Longitude">-0.362942</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.362942,51.415965</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.421084</SimpleData>
+		<SimpleData name="Longitude">-0.309778</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.309778,51.421084</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.421838</SimpleData>
+		<SimpleData name="Longitude">-0.307432</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.307432,51.421838</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.422789</SimpleData>
+		<SimpleData name="Longitude">-0.308201</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.308201,51.422789</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.414245</SimpleData>
+		<SimpleData name="Longitude">-0.3808566</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.3808566,51.414245</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.414247</SimpleData>
+		<SimpleData name="Longitude">-0.3799413</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.3799413,51.414247</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.414078</SimpleData>
+		<SimpleData name="Longitude">-0.379537</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.379537,51.414078</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.446002</SimpleData>
+		<SimpleData name="Longitude">-0.384174</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.384174,51.446002</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.446655</SimpleData>
+		<SimpleData name="Longitude">-0.384869</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.384869,51.446655</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.449168</SimpleData>
+		<SimpleData name="Longitude">-0.386868</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.386868,51.449168</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.448579</SimpleData>
+		<SimpleData name="Longitude">-0.386511</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.386511,51.448579</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.446791</SimpleData>
+		<SimpleData name="Longitude">-0.3855377</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.3855377,51.446791</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.4464265</SimpleData>
+		<SimpleData name="Longitude">-0.3850928</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.3850928,51.4464265</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.4836212</SimpleData>
+		<SimpleData name="Longitude">-0.2481392</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.2481392,51.4836212</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.4842258</SimpleData>
+		<SimpleData name="Longitude">-0.2474043</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.2474043,51.4842258</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.4848138</SimpleData>
+		<SimpleData name="Longitude">-0.2466828</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.2466828,51.4848138</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.4852196</SimpleData>
+		<SimpleData name="Longitude">-0.2459559</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.2459559,51.4852196</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.4854819</SimpleData>
+		<SimpleData name="Longitude">-0.2453578</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.2453578,51.4854819</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.469464</SimpleData>
+		<SimpleData name="Longitude">-0.248627</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.248627,51.469464</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.469643</SimpleData>
+		<SimpleData name="Longitude">-0.248469</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.248469,51.469643</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.467965</SimpleData>
+		<SimpleData name="Longitude">-0.249527</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.249527,51.467965</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.467874</SimpleData>
+		<SimpleData name="Longitude">-0.249728</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.249728,51.467874</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.466948</SimpleData>
+		<SimpleData name="Longitude">-0.242398</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.242398,51.466948</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.467456</SimpleData>
+		<SimpleData name="Longitude">-0.245062</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.245062,51.467456</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.467405</SimpleData>
+		<SimpleData name="Longitude">-0.243619</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.243619,51.467405</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.467636</SimpleData>
+		<SimpleData name="Longitude">-0.245148</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.245148,51.467636</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.43274315</SimpleData>
+		<SimpleData name="Longitude">-0.323989392</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.323989392,51.43274315</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.43274315</SimpleData>
+		<SimpleData name="Longitude">-0.319059369</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.319059369,51.43274315</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.43274315</SimpleData>
+		<SimpleData name="Longitude">-0.299339275</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.299339275,51.43274315</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.43274315</SimpleData>
+		<SimpleData name="Longitude">-0.294409252</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.294409252,51.43274315</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.43582384</SimpleData>
+		<SimpleData name="Longitude">-0.323989392</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.323989392,51.43582384</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.43582384</SimpleData>
+		<SimpleData name="Longitude">-0.294409252</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.294409252,51.43582384</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.438986</SimpleData>
+		<SimpleData name="Longitude">-0.329236</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.329236,51.438986</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.43890452</SimpleData>
+		<SimpleData name="Longitude">-0.323989392</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.323989392,51.43890452</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.44198521</SimpleData>
+		<SimpleData name="Longitude">-0.328919416</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.328919416,51.44198521</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.44198521</SimpleData>
+		<SimpleData name="Longitude">-0.323989392</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.323989392,51.44198521</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.44506589</SimpleData>
+		<SimpleData name="Longitude">-0.319059369</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.319059369,51.44506589</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.431113</SimpleData>
+		<SimpleData name="Longitude">-0.294296</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.294296,51.431113</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.435044</SimpleData>
+		<SimpleData name="Longitude">-0.296328</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.296328,51.435044</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.436493</SimpleData>
+		<SimpleData name="Longitude">-0.327155</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.327155,51.436493</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.46155</SimpleData>
+		<SimpleData name="Longitude">-0.314598</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.314598,51.46155</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.460936</SimpleData>
+		<SimpleData name="Longitude">-0.3128797</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.3128797,51.460936</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.466361</SimpleData>
+		<SimpleData name="Longitude">-0.319442</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.319442,51.466361</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.461854</SimpleData>
+		<SimpleData name="Longitude">-0.311932</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.311932,51.461854</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.462107</SimpleData>
+		<SimpleData name="Longitude">-0.315496</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.315496,51.462107</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.4626434</SimpleData>
+		<SimpleData name="Longitude">-0.309696</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.309696,51.4626434</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.463502</SimpleData>
+		<SimpleData name="Longitude">-0.316663</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.316663,51.463502</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.462745</SimpleData>
+		<SimpleData name="Longitude">-0.309306</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.309306,51.462745</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.46318</SimpleData>
+		<SimpleData name="Longitude">-0.30809</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.30809,51.46318</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.46474</SimpleData>
+		<SimpleData name="Longitude">-0.319588</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.319588,51.46474</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.463605</SimpleData>
+		<SimpleData name="Longitude">-0.317413</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.317413,51.463605</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.469932</SimpleData>
+		<SimpleData name="Longitude">-0.31846</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.31846,51.469932</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.471819</SimpleData>
+		<SimpleData name="Longitude">-0.314351</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.314351,51.471819</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#camera_traps">
+		<SimpleData name="Latitude">51.473237</SimpleData>
+		<SimpleData name="Longitude">-0.310742</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.310742,51.473237</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

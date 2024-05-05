@@ -1,0 +1,5 @@
+Location,placeID,Start.date,End.date,Nights.active,Long,Lat,Blackcap,Cat,Crow,Fox,Great_tit,Jay,Magpie,Moorhen,Mouse,Rat,Robin,Sparrow,Squirrel,Tawny_owl,Wood_pigeon,Wren
+Hither Green ,13,23/03/2022,16/05/2022,54,0.001493,51.45052,0,0,0,45,0,0,0,11,0,1,0,0,83,0,11,0
+Hither Green ,14,23/03/2022,26/04/2022,34,0.001234,51.450578,0,3,18,109,1,1,7,105,6,223,2,0,604,1,49,0
+Hither Green ,15,23/03/2022,16/05/2022,54,0.001061,51.450677,1,1,0,20,0,0,0,8,0,67,6,1,49,0,0,2
+Hither Green ,16,23/03/2022,24/05/2022,62,0.000334,51.451311,0,0,0,9,0,0,0,0,0,0,0,0,5,0,23,0
